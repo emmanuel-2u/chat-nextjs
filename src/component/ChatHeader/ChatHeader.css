@@ -1,0 +1,8 @@
+::placeholder, input[type="text"] {
+    color: var(--main-text-color) !important;
+    opacity: 1;
+}
+
+.transparent-bg {
+    background-color: transparent;
+}

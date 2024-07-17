@@ -1,0 +1,18 @@
+.main-bg {
+    background-color: var(--main-bg-color) !important;
+}
+
+.side-bar {
+    content: "";
+    /* position: absolute;
+    top: 0;
+    bottom: 0; */
+}
+
+.default-radius {
+    border-radius: 10px;
+}
+
+.to-pointer {
+    cursor: pointer;
+}

@@ -1,0 +1,19 @@
+:root {
+    --selected-bg: #303135;
+}
+
+.font-1 {
+    font-size: 8px;
+}
+
+.font-2 {
+    font-size: 5px;
+}
+
+.chat-box-selected, .hover-bg:hover {
+    background-color: var(--selected-bg);
+}
+
+.time-color {
+    color: #5c5d61 !important;
+}

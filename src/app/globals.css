@@ -1,0 +1,18 @@
+:root {
+  --body-bg-color: #121317;
+  --main-bg-color: #191a1e;
+  --main-text-color: #d4dbda;
+  --common-bg-color: #010101;
+  background-color: var(--body-bg-color);
+  box-sizing: border-box;
+}
+
+h1 {
+  color: var(--main-text-color) !important;
+  margin-bottom: -5px !important;
+}
+
+label {
+  text-align: left;
+  color: var(--main-text-color) !important;
+}

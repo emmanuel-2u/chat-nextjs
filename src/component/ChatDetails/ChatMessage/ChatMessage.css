@@ -1,0 +1,30 @@
+.message-body {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 5px;
+    font-size: 13px;
+    width: 90%;
+    max-width: 90%;
+}
+
+.message-container {
+    width: 43%;
+}
+
+.metadata-color {
+    color: #77767b;
+}
+
+.first-bg-color {
+    background-color: #a57ef6;
+}
+
+.second-bg-color {
+    background-color: var(--common-bg-color);
+}
+
+.image-width {
+    width: 70px;
+    height: 70px;
+}
